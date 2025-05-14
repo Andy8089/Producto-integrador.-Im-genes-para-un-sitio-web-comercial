@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GamerZone - Inicio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>GamerZone</h1>
+    <nav>
+      <a href="index.html">Inicio</a>
+      <a href="catalogo.html">Catálogo</a>
+      <a href="contacto.html">Contacto</a>
+    </nav>
+  </header>
+
+  <section class="section">
+    <h2 class="section-title">Experiencias Inmersivas</h2>
+    <div class="gallery">
+      <img src="imagenes_optimizadas/imagen_1.webp" alt="Niños jugando">
+      <img src="imagenes_optimizadas/imagen_2.webp" alt="Carrera futurista">
+      <img src="imagenes_optimizadas/imagen_6.webp" alt="Pareja jugando">
+      <img src="imagenes_optimizadas/imagen_10.webp" alt="Jugador VR">
+    </div>
+  </section>
+</body>
+</html>
